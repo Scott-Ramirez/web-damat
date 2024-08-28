@@ -1,0 +1,51 @@
+[
+    {
+      "id": "DM-1234",
+      "nom_prod": "Camisa Azul",
+      "precio": 29.99,
+      "imagen": "image/prod_recientes/camisa-azul.png"
+    },
+    {
+      "id": "DM-5678",
+      "nom_prod": "Pantalon Negro",
+      "precio": 49.99,
+      "imagen": "image/prod_recientes/pantalon-negro.jpg"
+    },
+    {
+      "id": "DM-9101",
+      "nom_prod": "Chaqueta Verde",
+      "precio": 89.99,
+      "imagen": "image/prod_recientes/chaqueta-verde.webp"
+    },
+    {
+      "id": "DM-1122",
+      "nom_prod": "Zapato Marron",
+      "precio": 69.99,
+      "imagen": "image/prod_recientes/zapato-marron.webp"
+    },
+    {
+      "id": "DM-1234",
+      "nom_prod": "Camisaad Azul",
+      "precio": 29.99,
+      "imagen": "image/prod_recientes/camisa-azul.png"
+    },
+    {
+      "id": "DM-5678",
+      "nom_prod": "Pantalonner Negro",
+      "precio": 49.99,
+      "imagen": "image/prod_recientes/pantalon-negro.jpg"
+    },
+    {
+      "id": "DM-9101",
+      "nom_prod": "Chaquetadga Verde",
+      "precio": 89.99,
+      "imagen": "image/prod_recientes/chaqueta-verde.webp"
+    },
+    {
+      "id": "DM-1122",
+      "nom_prod": "Zapatoyori Marron",
+      "precio": 69.99,
+      "imagen": "image/prod_recientes/zapato-marron.webp"
+    }
+  ]
+  
